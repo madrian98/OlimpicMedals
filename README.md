@@ -10,7 +10,7 @@ Try it out with binder:<br />[![Binder](https://mybinder.org/badge_logo.svg)](ht
 
 # Example
 <p align="center">
-  <img src="https://github.com/madrian98/OlympicMedals/blob/main/README_Images/Stacked%20winter%20olimpics.png" />
+  <img src="https://github.com/madrian98/OlimpicMedals/blob/main/README_Images/Stacked%20winter%20olimpics.png" />
   Top winter olympics countries
 </p>
 
